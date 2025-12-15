@@ -1,4 +1,3 @@
-# MapaMentAAAAl
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -43,7 +42,7 @@ html, body {
 
 <div id="viewport">
     <div id="canvas">
-        <img src="C:\Users\smeza\OneDrive\Documentos\GitHub\MapaMental\NotebookLM Mind Map.png" alt="Mapa mental">
+        <img src=""NotebookLM Mind Map.png"" alt="Mapa mental">
     </div>
 </div>
 
